@@ -49,5 +49,10 @@ I experimented with a XGBoost model. In this case, se used the validation set fo
 
 I presented the data to a LightGBM model. We used both train-validation split and cross-validation to evaluate the model effectiveness to predict 'Class' value, i.e. detecting if a transaction was fraudulent. With the first method we obtained values of AUC for the validation set around 0.974. For the test set, the score obtained was 0.946.
 
-Clone this repository: git clone https://github.com/Aakanksha160/credit_card_fraud_detection_analysis.git
+## Cloning this repository
+
+To clone this repository, use the following command:
+
+```bash
+git clone https://github.com/Aakanksha160/credit_card_fraud_detection_analysis.git
 
